@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://morenicejay.github.io/csb-5ntji/static/css/main.59297464.chunk.css",
+    "main.js": "https://morenicejay.github.io/csb-5ntji/static/js/main.f24d2caf.chunk.js",
+    "main.js.map": "https://morenicejay.github.io/csb-5ntji/static/js/main.f24d2caf.chunk.js.map",
+    "runtime-main.js": "https://morenicejay.github.io/csb-5ntji/static/js/runtime-main.38426cc1.js",
+    "runtime-main.js.map": "https://morenicejay.github.io/csb-5ntji/static/js/runtime-main.38426cc1.js.map",
+    "static/js/2.d9eb5592.chunk.js": "https://morenicejay.github.io/csb-5ntji/static/js/2.d9eb5592.chunk.js",
+    "static/js/2.d9eb5592.chunk.js.map": "https://morenicejay.github.io/csb-5ntji/static/js/2.d9eb5592.chunk.js.map",
+    "index.html": "https://morenicejay.github.io/csb-5ntji/index.html",
+    "static/css/main.59297464.chunk.css.map": "https://morenicejay.github.io/csb-5ntji/static/css/main.59297464.chunk.css.map",
+    "static/js/2.d9eb5592.chunk.js.LICENSE.txt": "https://morenicejay.github.io/csb-5ntji/static/js/2.d9eb5592.chunk.js.LICENSE.txt",
+    "static/media/hanaro.15e2d977.pdf": "https://morenicejay.github.io/csb-5ntji/static/media/hanaro.15e2d977.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38426cc1.js",
+    "static/js/2.d9eb5592.chunk.js",
+    "static/css/main.59297464.chunk.css",
+    "static/js/main.f24d2caf.chunk.js"
+  ]
+}
